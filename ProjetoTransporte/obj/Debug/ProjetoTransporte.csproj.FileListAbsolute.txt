@@ -1,0 +1,7 @@
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.csprojAssemblyReference.cache
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.csproj.CoreCompileInputs.cache
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe.config
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.exe
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\bin\Debug\ProjetoTransporte.pdb
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.exe
+C:\Users\denhe\OneDrive\Área de Trabalho\Faculdade\aulas\4_semestre\Est de dados\ED1I4_Transporte\ProjetoTransporte\ProjetoTransporte\obj\Debug\ProjetoTransporte.pdb
